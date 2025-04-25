@@ -7,6 +7,7 @@ import win32gui
 import win32con
 import win32api
 
+#shoutout to mr rayhan for teaching me like allis (especially classes)
 class CoolCrosshairApp:
     def __init__(self):
         self.visible = True
@@ -268,3 +269,5 @@ class CoolCrosshairApp:
 if __name__ == "__main__":
     app = CoolCrosshairApp()
     app.root.mainloop()
+
+#thanks for using my crosshair app wowowoowwowow <3
