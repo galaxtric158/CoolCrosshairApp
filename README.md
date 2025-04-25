@@ -2,8 +2,7 @@
 just a cool crosshair app lolol
 </br> inspired by Crosshair X
 > [!NOTE]
-> chatgpt helped with some of ts, idk bro i suck at coding i guess
-> </br> and also the config, hard to code cz idk how text files and stuff like that work
+> chatgpt helped with the config for ts, idk bro i suck at coding i guess (havent gotten the time to learn allat yet)
 > </br> shoutout mr rayhan lolol
 > </br> documentation actually carrying me frfr
 
