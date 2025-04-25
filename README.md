@@ -1,5 +1,6 @@
 # CoolCrosshairApp
 just a cool crosshair app lolol
+</br> inspired by Crosshair X
 > [!NOTE]
 > chatgpt helped with some of ts, idk bro i suck at coding i guess
 > </br> and also the config, hard to code cz idk how text files and stuff like that work
