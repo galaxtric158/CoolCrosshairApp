@@ -10,6 +10,7 @@ just a cool crosshair app lolol
 > there are 2 options if u want to download this.
 > </br> - download the app (.exe file)
 > </br> - or just download the .py file and run it in your code editor/terminal. (recommended)
+> </br> download the .py file [here](https://github.com/galaxtric158/CoolCrosshairApp/tree/main/source/coolcrosshairapp.py)
 
 > [!TIP]
 > some of my favorite presets are in the "[source](https://github.com/galaxtric158/CoolCrosshairApp/tree/main/source)" file, and go to the subfolder. (which is "[presets](https://github.com/galaxtric158/CoolCrosshairApp/tree/main/source/presets)") 
