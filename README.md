@@ -12,7 +12,7 @@ just a cool crosshair app lolol
 > </br> - or just download the .py file and run it in your code editor/terminal. (recommended)
 
 > [!TIP]
-> some of my favorite presets are in the "source" file, and go to the subfolder. (which is "presets") or if you're a lazy bum click [this] (https://github.com/galaxtric158/CoolCrosshairApp/tree/main/source/presets)
+> some of my favorite presets are in the "source" file, and go to the subfolder. (which is "presets") or if you're a lazy bum click [this](https://github.com/galaxtric158/CoolCrosshairApp/tree/main/source/presets)
 
 </br> idk js run it and u good cuh
 </br> thanks for checking out my cool app
