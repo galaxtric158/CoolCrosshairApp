@@ -11,7 +11,7 @@ just a cool crosshair app lolol
 > </br> - download the app (.exe file)
 > </br> - or just download the .py file and run it in your code editor/terminal. (recommended)
 
-> [!NOTE]
+> [!TIP]
 > some of my favorite presets are in the "source" file, and go to the subfolder. (which is "presets")
 
 </br> idk js run it and u good cuh
