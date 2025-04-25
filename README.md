@@ -19,6 +19,7 @@ just a cool crosshair app lolol
 
 > [!WARNING]
 > If you are using the .exe file, make sure to hide your crosshair before closing the GUI, otherwise the crosshair overlay will stay there.
+> </br> i'll fix ts in a future update bro today my head hurts
 
 </br> idk js run it and u good cuh
 </br> thanks for checking out my cool app
