@@ -13,7 +13,7 @@ just a cool crosshair app lolol
 
 > [!TIP]
 > some of my favorite presets are in the "[source](https://github.com/galaxtric158/CoolCrosshairApp/tree/main/source)" file, and go to the subfolder. (which is "[presets](https://github.com/galaxtric158/CoolCrosshairApp/tree/main/source/presets)") 
-> </br> or if you're a lazy bum click [this](https://github.com/galaxtric158/CoolCrosshairApp/tree/main/source/presets)
+> </br> ~if you're lazy to go there manually click on the blue text~
 
 </br> idk js run it and u good cuh
 </br> thanks for checking out my cool app
